@@ -39,14 +39,6 @@ Add your Pinecone and Groq credentials:
 PINECONE_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 GROQ_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-
-> If using OpenAI instead of Groq:
-```
-OPENAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
----
-
 ### 2️⃣ Store Embeddings in Pinecone
 
 Run the following command:
