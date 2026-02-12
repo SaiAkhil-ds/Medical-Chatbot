@@ -1,25 +1,22 @@
 # Medical-Chatbot
 
-# How to run?
-### STEPS:
+## How to Run
 
-Clone the repository
+### Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/SaiAkhil-ds/Medical-Chatbot.git
+cd Medical-Chatbot
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### Step 2: Create a Conda Environment
 
 ```bash
 conda create -n medibot python=3.10 -y
-
-```bash
 conda activate medibot
 ```
-```
 
-### STEP 02- Install the requirements
+### Step 3: Install the Requirements
 
 ```bash
 pip install -r requirements.txt
