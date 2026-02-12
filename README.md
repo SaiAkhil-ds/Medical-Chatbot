@@ -186,6 +186,3 @@ After CI/CD setup:
 - Pushes image to ECR
 - EC2 pulls and runs container automatically
 
-Your chatbot is now deployed on AWS 🚀
-
----
